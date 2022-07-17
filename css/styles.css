@@ -83,7 +83,7 @@ ul {
     margin: -1px;
 }
 
-/* секции */
+/* sections */
 
 .section {
     margin: 0 auto;
@@ -121,7 +121,7 @@ ul {
 }
 
 
-/* логотип */
+/* logo */
 
 .logo {
     margin-right: 93px;
@@ -460,7 +460,7 @@ ul {
     border: 1px solid var(--accent-color);
 }
 
-.form__textarea:focus-within .form__textarea--field {
+.form__textarea:focus-within .form__textarea-field {
     border: 1px solid var(--accent-color);
 }
 
@@ -527,9 +527,7 @@ ul {
     background-color: var(--accent-color);
 }
 
-.form__textarea:focus-within .form__textarea-field {
-    border: 1px solid var(--accent-color);
-}
+
 
 .form__checkbox-text {
     font-weight: 400;
@@ -587,7 +585,7 @@ ul {
     line-height: 1.71;
 }
 
-/* чем мы занимаемся */
+/* features */
 
 
 .features {
@@ -781,10 +779,10 @@ ul {
 
 
 
-/* портфолио */
+/* portfolio */
 
 
-/* фильтр */
+/* filter */
 
 .filter-list {
     display: flex;
@@ -796,7 +794,7 @@ ul {
     margin-right: 8px;
 }
 
-/* каталог */
+/* catalog */
 
 .catalog-list {
     display: flex;
@@ -955,7 +953,7 @@ ul {
 }
 
 
-/* контакты footer */
+/* footer contacts */
 
 
 
@@ -986,7 +984,7 @@ ul {
     color: var(--accent-color);
 }
 
-/* адрес */
+/* address */
 
 .contacts-footer__address {
     color: var(--wite-color);

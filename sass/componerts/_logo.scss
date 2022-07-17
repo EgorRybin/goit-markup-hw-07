@@ -1,0 +1,23 @@
+.logo {
+    margin-right: 93px;
+
+    color: $accent-color;
+    font-family: $fontPrimary;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+.logo__color--prime {
+    color: $primary-text-color;
+}
+
+.footer__logo {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.logo__color--second {
+    color: $wite-color;
+}

@@ -1,0 +1,38 @@
+.qualitys {
+    padding-top: 94px;
+}
+
+
+.qualitys__list {
+    display: flex;
+
+    color: $secondary-text-color;
+}
+
+.qualitys__item:not(:last-child) {
+    margin-right: 30px;
+}
+
+.qualitys__icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    height: 120px;
+
+    margin-bottom: 30px;
+    border-radius: 4px;
+
+    background-color: $button-bg-color;
+}
+
+.qualitys__svg {
+    width: 70px;
+    height: 70px;
+}
+
+.qualitys__description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+}
